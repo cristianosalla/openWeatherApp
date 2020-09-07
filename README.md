@@ -1,5 +1,4 @@
-# openWeatherApp
-Open Weather App
+# OpenWeatherApp
 
 ## Sobre
 
